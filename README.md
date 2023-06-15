@@ -1,2 +1,3 @@
 # git_test
-testing git
+Git practice on repo
+Hello Odin!
